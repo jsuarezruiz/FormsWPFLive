@@ -2,6 +2,8 @@
 
 **Live XAML** development for Xamarin Forms Apps using **WPF** Backend.
 
+![](Images/LiveXAMLEditor.gif)
+
 ***NOTE**: Work in progress!*
 
 ## Setup
